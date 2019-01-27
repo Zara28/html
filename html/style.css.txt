@@ -1,0 +1,27 @@
+body
+{
+	color:white;
+	background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/EZeQk-6/space-with-galaxy-and-nebulae-simulation-loopable-1_bevxu2pbg_thumbnail-full01.png);
+}
+
+
+.div
+{
+	font-style:oblique;
+	font-size:1.5em;
+	text-shadow: 3px 1 px 2px darkblue, 0 0 1em black
+	
+}
+a
+{
+	color:white;
+	font-size: 42;
+}
+a:visited 
+{
+    color:white;
+}
+a:active 
+{
+    color:white;
+}
