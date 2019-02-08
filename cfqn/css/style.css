@@ -1,0 +1,23 @@
+.header
+{
+background-image: url(../img/coffee-shop.jpg);
+
+ height: 700px;
+}
+
+.text
+{
+top: 82px;
+left: 570px;
+}
+li
+{
+
+ 	font-family:PlayfairDisplay;
+   	 font-size:25px;
+   	 color:#fff;
+	
+	display: inline; /* Отображать как строчный элемент */
+    	margin-right: 50px; /* Отступ слева */
+    	padding: 50px; /* Поля вокруг текста */
+}
